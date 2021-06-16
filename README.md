@@ -8,3 +8,5 @@ Useful links:
 TODO:
 * unit tests
 * parallelize even more so each db will be scanned on dedicated thread ?
+* make db skipper configurable
+* support various authentication strategies
